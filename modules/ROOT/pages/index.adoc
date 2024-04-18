@@ -1,2 +1,50 @@
-= Creating Machine Learning Models with Red Hat OpenShift Data Science
+= Creating Machine Learning Models with Red Hat OpenShift AI
 :navtitle: Home
+
+Welcome to this quick course on the _Creating Machine Learning Models with Red Hat OpenShift AI_.
+This course is the *third* in a series of *five* courses about Red Hat OpenShift AI:
+
+1. https://redhatquickcourses.github.io/rhods-intro[Introduction to Red Hat OpenShift AI]
+2. https://redhatquickcourses.github.io/rhods-admin[Red Hat OpenShift AI Administration]
+3. Creating Machine Learning Models with Red Hat OpenShift Data Science (_This course_)
+4. https://redhatquickcourses.github.io/rhods-deploy[Deploying Machine Learning Models with Red Hat OpenShift AI]
+5. https://redhatquickcourses.github.io/rhods-pipelines[Automation using Data Science Pipelines]
+
+NOTE: After you have completed all the courses in the learning path, you can attempt the https://github.com/RedHatQuickCourses/rhods-qc-apps/tree/main/7.hands-on-lab["Hit the RHOAI"] exercise, that tests your understanding of the concepts taught in all the courses.
+
+== Authors
+
+The PTL team acknowledges the valuable contributions of the following Red Hat associates:
+
+* Satyajit Lele
+* Jaime Ramirez Castillo
+* Max Murakami
+* Sara Banderby
+* Ravi Srinivasan
+
+== Classroom Environment for Red Hat Associates
+
+Continue using the https://demo.redhat.com/catalog?search=Red+Hat+OpenShift+Container+Platform+4.13+Workshop&item=babylon-catalog-prod%2Fopenshift-cnv.ocp413-wksp-cnv.prod[Red Hat OpenShift Container Platform 4.13 Workshop] classroom that you provisioned in the _Red Hat OpenShift AI Administration_ course.
+
+You are expected to complete the _Red Hat OpenShift AI Administration_ course, where you install and configure a basic RHOAI instance, and then continue with this course.
+
+== Classroom Environment for Red Hat Partners
+
+Red Hat partners should continue to use the Red Hat OpenShift AI cluster provisioned in the _Red Hat OpenShift AI Administration_ course, using the Red Hat Hybrid Cloud Console at https://console.redhat.com/openshift/overview.
+
+You are expected to complete the _Red Hat OpenShift AI Administration_ course, where you install and configure a basic RHOAI instance, and then continue with this course.
+
+== Prerequisites
+
+* Take the Introduction to https://www.redhat.com/en/services/training/ad141-red-hat-training-presents-introduction-to-python-programming[Python Programming (AD141)] training course or demonstrate equivalent knowledge of Python programming
+* Basic knowledge of machine learning foundations is recommended.
+* Basic knowledge of the PyTorch Python library for machine learning and deep learning.
+
+== Objectives
+
+The overall objectives of this introductory course include:
+
+* Describe basic machine learning concepts
+* Describe the different types of machine learning 
+* Create and train machine learning models
+* Machine Learning Workflows

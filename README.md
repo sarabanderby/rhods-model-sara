@@ -1,6 +1,6 @@
-# Creating Machine Learning Models with Red Hat OpenShift Data Science
+# Creating Machine Learning Models with Red Hat OpenShift AI
 
-This course is the third in a series of 6 courses about Red Hat OpenShift Data Science (RHODS). This course teaches you how to create machine learning models in RHODS, and how to export models using Jupyter Notebooks.
+This course is the third in a series of five courses about Red Hat OpenShift AI (RHOAI). This course teaches you how to create machine learning models in RHOAI, and how to export models using Jupyter Notebooks.
 
 # Creating Course Content
 
@@ -33,7 +33,7 @@ To add a new section under a chapter create an entry in the *modules/CHAPTER/nav
 
 ### Steps
 
-1. Clone the course repository.
+1. Clone or fork the course repository.
 ```
     $ git clone git@github.com:RedHatQuickCourses/rhods-model.git
 ```
@@ -65,7 +65,7 @@ To add a new section under a chapter create an entry in the *modules/CHAPTER/nav
     $ git push -u origin rsriniva/ch01s01
 ```
 
-7. Create a GitHub pull request (PR) for your changes using the GitHub web UI.
+7. Create a GitHub pull request (PR) for your changes using the GitHub web UI. For forks, create a PR that merges your forked changes into the `main` branch of this repository.
 
 8. Request a review of the PR from your technical peers and/or a member of the PTL team.
 

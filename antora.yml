@@ -1,9 +1,7 @@
 name: rhods-model
-title: Creating Machine Learning Models with Red Hat OpenShift Data Science
+title: Creating Machine Learning Models with Red Hat OpenShift AI
 version: 1.33
 nav:
 - modules/ROOT/nav.adoc
 - modules/chapter1/nav.adoc
 - modules/chapter2/nav.adoc
-- modules/chapter3/nav.adoc
-- modules/appendix/nav.adoc
